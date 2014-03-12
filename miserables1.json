@@ -1,0 +1,43 @@
+{
+  "nodes":[
+    {"name":"Motivation for ABM and Systems Science Methods","group":1,"url":"http://www.youtube.com/watch?v=W5xSAjPGGWo"},
+    {"name":"Emergence & Software Introduction","group":2,"url":"http://www.youtube.com/watch?v=Kx9OleH5rDY"},
+    {"name":"Overview of Modeling Process 1","group":3,"url":"http://www.youtube.com/watch?v=5pxhuWMC-UE"},
+ {"name":"Overview of Modeling Process 2","group":3,"url":"http://www.youtube.com/watch?v=nzPJvNJdFG4"},
+    {"name":"Mobility","group":4,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+    {"name":"Introduction to the AnyLogic Interface & Supporting Concepts by Building Up a Simple Model","group":5,"url":"http://www.youtube.com/watch?v=ntH3bILh4PQ"},
+   {"name":"Specifying Agent Properties, Parameters & Heterogeneity","group":6,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Specifying Agent Properties, Parameters & Heterogeneity: Setting Agent Presentation Properties","group":6,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+   {"name":"Discrete Intra-agent Dynamics, Statecharts","group":7,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Discrete Inter-agent Dynamics, Sending & Receiving Messages","group":8,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Events: Static & Dynamic","group":9,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Networks","group":10,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Dynamic Populations and Networks","group":11,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Spatial Embedding","group":12,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Discrete Event Modeling, Irregular Geometries, and Understanding Patient Flow","group":13,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+   {"name":"Hybridization between Discrete Event Modeling and Agent-Based Modeling","group":14,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+    {"name":"Running and Analyzing Ensembles of Stochastic Realizations","group":15,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+   {"name":"Lecture 25 -- Tradeoffs between Agent-Based and Aggregate Modeling Part1","group":16,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+  {"name":"Lecture 25 -- Tradeoffs between Agent-Based and Aggregate Modeling Part2","group":16,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Modeling for Dynamic Decision Problems","group":17,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Sensitivity Analysis","group":18,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Building User Interfaces for Models","group":19,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Calibration 1","group":20,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Calibration 2","group":20,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Performance Considerations","group":21,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Debugging","group":22,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Glimpse of Process Best Practices","group":23,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Glimpse of Technical Best Practices","group":24,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Creating an Applet from an AnyLogic model (to allow the model to run outside of AnyLogic, or over the Web)","group":25,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"},
+	{"name":"Part 1: Lecture 26 -- Hybrid System Science Methods 1","group":26,"url":"http://www.youtube.com/watch?v=xAivTH0lUK4"}
+   
+    
+  ],
+  "links":[
+    {"source":1,"target":0,"value":1},
+   {"source":2,"target":0,"value":1},
+   {"source":2,"target":1,"value":1},
+    {"source":3,"target":1,"value":1},
+   {"source":4,"target":3,"value":1}
+  ]
+}
